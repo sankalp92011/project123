@@ -12,12 +12,12 @@
     border-radius: 100px;
     box-shadow: 5px 5px 5px black; 
   }
-  #s1, #s3, #square_side{
+  #first , #second , #font_size{
     color: black;
   }
   canvas{
     border-width: 6px ;
-    border-style: dashed;
+    border-style: dotted;
     border-color:red ;
     box-shadow: 5px 5px 5px blue; 
   }
